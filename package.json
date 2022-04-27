@@ -1,0 +1,23 @@
+{
+  "name": "fabric-network-mongodb-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippolidan/fabric-network-mongodb-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippolidan/fabric-network-mongodb-wallet/issues"
+  },
+  "homepage": "https://github.com/philippolidan/fabric-network-mongodb-wallet#readme",
+  "dependencies": {
+    "fabric-network": "^2.2.11",
+    "mongodb": "^4.1.1"
+  }
+}
