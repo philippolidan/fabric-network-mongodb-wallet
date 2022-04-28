@@ -1,6 +1,6 @@
 {
-  "name": "fabric-network-mongodb-wallet",
-  "version": "1.0.0",
+  "name": "@philippolidan/fabric-network-mongodb-wallet",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philippolidan/fabric-network-mongodb-wallet.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/philippolidan"
   },
   "author": "",
   "license": "ISC",
